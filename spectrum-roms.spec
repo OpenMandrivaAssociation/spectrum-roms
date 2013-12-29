@@ -2,7 +2,7 @@
 
 Name:           spectrum-roms
 Version:        %{version}
-Release:        2
+Release:        3
 Summary:        A collection of Spectrum ROM images
 Group:          Emulators
 License:        Distributable
