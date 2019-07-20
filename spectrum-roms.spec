@@ -2,7 +2,7 @@
 
 Name:           spectrum-roms
 Version:        %{version}
-Release:        3
+Release:        4
 Summary:        A collection of Spectrum ROM images
 Group:          Emulators
 License:        Distributable
@@ -20,7 +20,7 @@ versions of the Sinclair Spectrum. They can be used with various emulators.
 %setup -q -n %{name}
 
 %build
-%make
+%make_build
 
 %install
 rm -rf %{buildroot}
