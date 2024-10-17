@@ -6,7 +6,7 @@ Release:        4
 Summary:        A collection of Spectrum ROM images
 Group:          Emulators
 License:        Distributable
-URL:            http://www.chiark.greenend.org.uk/~cjwatson/code/spectrum-roms/
+URL:            https://www.chiark.greenend.org.uk/~cjwatson/code/spectrum-roms/
 Source0:        http://www.chiark.greenend.org.uk/~cjwatson/code/%{name}/%{name}-%{version}.tar.gz
 Source1:        %{name}-distribution.txt
 BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-root
